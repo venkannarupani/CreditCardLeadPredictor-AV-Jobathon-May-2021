@@ -3,5 +3,5 @@ This project is on Credit Card Lead Predictor for Analytics Vidhya Jobathon comp
 
 Final AUC Score = 0.8726401840.
 
-Prive Leaderboard Rank : 409
-Public Leaderboard Rank : 438
+Prive Leaderboard Rank : 409;
+Public Leaderboard Rank : 438.
